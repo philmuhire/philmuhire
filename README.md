@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=philmuhire&show_icons=true&theme=radical")
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=philmuhire&theme=radical)
 
 
 <div style="display: flex; flex-direction: column; gap: 5">
