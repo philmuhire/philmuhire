@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=philmuhire&show_icons=true&theme=radical)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=philmuhire)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div style="display: flex; flex-direction: column; gap: 5">
