@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=philmuhire&theme=tokyonight)
 
 
-<div style="display: flex; flex-direction: column; gap: 5">
+<!-- <div style="display: flex; flex-direction: column; gap: 5">
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philmuhire&theme=radical&layout=compact" />
-</div>
+</div> -->
 
