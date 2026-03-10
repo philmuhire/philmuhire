@@ -18,6 +18,11 @@ Here are some ideas to get you started:
 -->
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=philmuhire&count_private=true&theme=tokyonight&showicons=true)]()
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=philmuhire&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=philmuhire&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=philmuhire&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=philmuhire&theme=tokyonight)
 
 
 <div style="display: flex; flex-direction: column; gap: 5">
